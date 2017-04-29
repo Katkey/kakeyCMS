@@ -1,2 +1,2 @@
 Katkey LLC 
-A Simple Blog CM is PHP and MYSQL
+A Simple Blog CMS using PHP and MYSQL
